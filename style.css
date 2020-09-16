@@ -323,7 +323,6 @@ main {
 }
 
 .container-four {
-    height: 450px;
     width: 100%;
     margin: auto;
     float: left;
@@ -363,4 +362,58 @@ main {
     padding-left: 50px;
     color: #727272;
     margin: 0 0 18px;
+}
+
+.conteiner-five {
+    height: 200px;
+    width: 100%;
+    background-color: #294681;
+    float: left;
+}
+
+.study-plan {
+    height: 200px;
+    width: 1400px;
+    margin: auto;
+}
+
+.text-study-plan {
+    height: 200px;
+    width: 50%;
+    float: left;
+}
+
+.study-plan-for-you {
+    font-size: 40px;
+    padding-top: 35px;
+    padding-left: 80px;
+    color: white;
+}
+
+ .english-packages {
+     height: 200px;
+     width: 50%;
+     padding-left: 50px;
+     float: left;
+}
+
+.text-english-packages {
+    color: white;
+    margin-bottom: 25px;
+    font-size: 20px;
+    padding-top: 55px;
+}
+
+.button-buy {
+    color: #337142;
+    background-color: #64DE82;
+    padding: 10px 30px;
+    font-size: 13px;
+    border-radius: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.button-buy:hover {
+    color: white;
 }
