@@ -188,7 +188,6 @@ main {
 }
 
 .container-two {
-    height: 1400px;
     width: 1400px;
     margin: auto;
 
@@ -288,13 +287,11 @@ main {
     width: 1240px;
     margin: auto;
     height: 360px;
-
-
 }
 
 .text-mobile {
     height: 360px;
-    width: 55%;
+    width: 45%;
     padding-top: 60px;
     float: left;
 }
@@ -317,10 +314,53 @@ main {
 
 .smartphone {
     height: 360px;
-    width: 45%;
+    width: 55%;
     float: left;
 }
 
 .img-smartphone {
-    padding-left: 100px;
+    padding-left: 200px;
+}
+
+.container-four {
+    height: 450px;
+    width: 100%;
+    margin: auto;
+    float: left;
+}
+
+.computer {
+    width: 1600px;
+    margin: auto;
+
+
+}
+
+.img-computer {
+    height: 450px;
+    width: 50%;
+    float: left;
+}
+
+.computer-open {
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+.text-computer {
+    height: 450px;
+    width: 50%;
+    float: left;
+}
+
+.title-platform {
+    color: #001A4F;
+    font-size: 27px;
+    margin: 150px 0 9px 50px;
+}
+
+.subtitle-platform {
+    padding-left: 50px;
+    color: #727272;
+    margin: 0 0 18px;
 }
