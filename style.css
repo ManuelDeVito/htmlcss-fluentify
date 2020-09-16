@@ -218,6 +218,7 @@ main {
 
 .color-green {
     color: #64DE82;
+
 }
 
 .color-grey {
@@ -274,4 +275,52 @@ main {
     color: #727272;
     margin: 0 0 18px;
 
+}
+
+.container-three {
+    width: 100%;
+    height: 360px;
+    background-color: #001A4F;
+    float: left;
+}
+
+.mobile {
+    width: 1240px;
+    margin: auto;
+    height: 360px;
+
+
+}
+
+.text-mobile {
+    height: 360px;
+    width: 55%;
+    padding-top: 60px;
+    float: left;
+}
+
+.title-mobile {
+    font-size: 40px;
+    color: white;
+    margin: 0 0 9px;
+}
+
+.subtitle-mobile {
+    color: white;
+    margin: 0 0 18px;
+
+}
+
+.line-none {
+    text-decoration: none;
+}
+
+.smartphone {
+    height: 360px;
+    width: 45%;
+    float: left;
+}
+
+.img-smartphone {
+    padding-left: 100px;
 }
