@@ -238,11 +238,40 @@ main {
 
 .title-installation {
     height: 200px;
-    margin: 50px 0;
+    width: 100%;
+    margin: 50px 0 0;
     text-align: center;
+    padding: 90px;
+    float: left;
 }
 
+.installation-none {
+    color: #727272;
+
+}
+
+
 .accessories {
-    height: 400px;
+    height: 350px;
+    width: 466px;
+    float: left;
+
+}
+
+.logo-accessories {
+    margin-left: 163px;
+}
+
+.title-devices {
+    text-align: center;
+    color: #001A4F;
+    font-size: 27px;
+    margin: 18px 0 9px;
+}
+
+.details {
+    text-align: center;
+    color: #727272;
+    margin: 0 0 18px;
 
 }
